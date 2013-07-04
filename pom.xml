@@ -326,7 +326,8 @@
 	</dependencyManagement>
 	
 	<modules>
-<!-- 		<module>desk</module> -->
-<!-- 		<module>app</module> -->
+		<module>takeseem-opensource-util</module>
+		<module>takeseem-opensource-sns</module>
+		<module>takeseem-opensource-google</module>
 	</modules>
 </project>
