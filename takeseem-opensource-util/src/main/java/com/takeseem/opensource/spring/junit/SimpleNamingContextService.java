@@ -3,7 +3,7 @@
  * All rights reserved.
  * @author <a href="mailto:takeseem@gmail.com">takeseem.com</a>
  */
-package com.takeseem.opensource.junit;
+package com.takeseem.opensource.spring.junit;
 
 import java.util.Map;
 import java.util.Map.Entry;
